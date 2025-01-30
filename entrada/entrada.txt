@@ -1,0 +1,56 @@
+posibles parametros
+
+id
+usuario
+ledger
+clase documento
+sociedad
+fecha cont
+fecha reg
+moneda tr
+taza de cambio
+texto cabezera
+identificador pi
+
+                                                 Posicion: columna autoincrementable, cuando llegue al cruce                                                                    se reinicia el conteo
+
+
+indicador tp retenciones 2
+indicador retencion 2
+base retencion 2
+base retencion doc 2
+indicador tp retenciones 3
+indicador retencion 3
+base retencion 3
+base retencion doc 3
+indicador tp retenciones 4
+indicador retencion 4
+base retencion 4
+base retencion doc 4
+indicador tp retenciones 5
+indicador retencion 5
+base retencion 5
+base retencion doc 5
+año
+mes
+moneda
+objeto costo
+clase de actividad
+posicion de la orden
+hoja de ruta
+segmento
+producto
+of ventas
+cliente car
+clase medio de transporte
+zona
+medio de transporte
+grupo material 1
+grupo material 2
+grupo material 3
+grupo material 4
+valor lc
+fecha referencia pago
+documento referencia
+fecha referencia
+bloqueo pago

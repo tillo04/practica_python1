@@ -1,0 +1,55 @@
+bloqueo pagofecha referencia
+documento referencia
+fecha referencia pago
+valor lc
+grupo material 4
+grupo material 3
+grupo material 2
+grupo material 1
+medio de transporte
+zona
+clase medio de transporte
+cliente car
+of ventas
+producto
+segmento
+hoja de ruta
+posicion de la orden
+clase de actividad
+objeto costo
+moneda
+mes
+año
+base retencion doc 5
+base retencion 5
+indicador retencion 5
+indicador tp retenciones 5
+base retencion doc 4
+base retencion 4
+indicador retencion 4
+indicador tp retenciones 4
+base retencion doc 3
+base retencion 3
+indicador retencion 3
+indicador tp retenciones 3
+base retencion doc 2
+base retencion 2
+indicador retencion 2
+indicador tp retenciones 2
+
+
+                                                 Posicion: columna autoincrementable, cuando llegue al cruce                                                                    se reinicia el conteo
+
+identificador pi
+texto cabezera
+taza de cambio
+moneda tr
+fecha reg
+fecha cont
+sociedad
+clase documento
+ledger
+usuario
+id
+
+posibles parametros
